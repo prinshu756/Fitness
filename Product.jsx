@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import ReactDom from "react-dom/client"
-import fitnessProducts from './data'
-
-
+import fitnessProducts from './dat
 export default function Product() {
   // console.log(fitnessProducts);
 
